@@ -1,4 +1,4 @@
-# OSX-RAT
+# Remote Administration Tool) for macOS / OSX
 Most powerful RAT (Remote Administration Tool) for macOS / OSX. 
 
 Dm me Telegram : (https://t.me/codepyx)
