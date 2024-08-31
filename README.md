@@ -1,9 +1,12 @@
+
+<img src="https://github.com/user-attachments/assets/2bd0a8ab-7bde-4998-afe2-e356aedf0790" width="250" height="250"> 
+
 # Remote Administration Tool for macOS / OSX 2024
 Most powerful RAT (Remote Administration Tool) for macOS / OSX. 
+Website : https://xcodepyx.com/  
+Telegram : (https://t.me/codepyx)
 
-Dm me Telegram : (https://t.me/codepyx)
-
-Features
+Features  
 Create a simple terminal instance
 For use on ALL APPLE OS's (macOS, OSX etc.)
 Undetected by anti-virus
@@ -18,13 +21,13 @@ Auto installer, simply run OSX-RAT on your target and the rest is handled automa
 Access to all phone data, files and chats from any apps
 
 
-SYSTEM:
+SYSTEM:  
 - Keychain (Export all passwords from apple keychain)
 - SystemInfo (Full information about system)
 - FileGrabber (Desktop, Documents) 
 - MacOS Password
 
-BROWSERS:
+BROWSERS:  
 - Chrome (Autofills, Passwords, Cookies, Wallets, Cards)
 - Firefox (Autofills, Cookies)
 - Brave (Cookies,Passwords,Autofills, Wallets, Cards)
@@ -34,7 +37,7 @@ BROWSERS:
 - Opera (Cookies,Passwords,Autofills,Wallets,Cards)
 - OperaGX (Cookies,Passwords,Autofills,Wallets,Cards)
 
-WALLETS + PLUGINS:
+WALLETS + PLUGINS:  
 - Electrum
 - Binance
 - Exodus
