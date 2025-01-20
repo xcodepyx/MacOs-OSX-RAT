@@ -4,7 +4,8 @@
 # Remote Administration Tool for macOS / OSX 2024  
 Most powerful RAT (Remote Administration Tool) for macOS / OSX.  
 Website : https://xcodepyx.com/  
-Telegram : @codepyx
+Contact :  https://t.me/xcodepyx
+
 
 Features  
 Create a simple terminal instance
